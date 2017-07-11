@@ -1,0 +1,17 @@
+{
+  "name": "nasa-model-scraper",
+  "version": "1.0.0",
+  "description": "Scrapes the NASA 3D models from their website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Martin Splitt <splitt@archilogic.com>",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1",
+    "scrape-it": "^3.3.2"
+  }
+}
